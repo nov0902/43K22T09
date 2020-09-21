@@ -59,3 +59,5 @@ Xampp/apache/conf/charset.conv
 Xampp/apache/conf/extra/httpd-ajp.conf
 Xampp/apache/conf/extra/httpd-autoindex.conf
 Xampp/apache/conf/extra/httpd-dav.conf
+Xampp/apache/conf/extra/httpd-default.conf
+Xampp/apache/conf/extra/httpd-info.conf
